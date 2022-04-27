@@ -1,5 +1,6 @@
 # PSET1
 Aluno: Augusto Taquetti Gusmão
+
 Professor: Abrantes Araujo Silva Filho
 
 Foram utilizados alguns sistemas de gerenciamneto de banco de dados (SGBD)
