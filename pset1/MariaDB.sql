@@ -229,15 +229,4 @@ ALTER TABLE dependente ADD CONSTRAINT funcionario_dependente_fk
  ALTER TABLE funcionario add constraint check (salario between '1000' and '200000');
 
  ALTER TABLE trabalha_em  add constraint check (horas between '0' and '200');'
-© 2022 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
+
